@@ -315,3 +315,67 @@ nav {
     }
   }
 }
+@media (max-width: 758px) {
+  .par1 {
+    .hero {
+      .h1 {
+        font-size: 38px;
+      }
+    }
+  }
+  .cards {
+    flex-wrap: wrap;
+  }
+  .par9 {
+    flex-wrap: wrap;
+    .par10 {
+      .par11 {
+        font-size: 36px;
+      }
+    }
+  }
+  .par13 {
+    .par14 {
+      .p2 {
+        font-size: 20px;
+      }
+    }
+  }
+  .all {
+    .p3 {
+      padding-left: 0px;
+    }
+  }
+}
+@media (max-width: 956px) {
+  .par1 {
+    .hero {
+      .h1 {
+        font-size: 38px;
+      }
+    }
+  }
+  .cards {
+    flex-wrap: wrap;
+  }
+  .par9 {
+    flex-wrap: wrap;
+    .par10 {
+      .par11 {
+        font-size: 36px;
+      }
+    }
+  }
+  .par13 {
+    .par14 {
+      .p2 {
+        font-size: 20px;
+      }
+    }
+  }
+  .all {
+    .p3 {
+      padding-left: 0px;
+    }
+  }
+}
